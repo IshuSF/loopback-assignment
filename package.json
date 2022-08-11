@@ -56,7 +56,7 @@
     "@loopback/service-proxy": "^2.0.1",
     "dotenv": "^8.2.0",
     "dotenv-extended": "^2.8.0",
-    "loopback-connector-postgresql": "^3.9.1",
+    "loopback-connector-postgresql": "^5.5.1",
     "tslib": "^1.10.0"
   },
   "devDependencies": {
